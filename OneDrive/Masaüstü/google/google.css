@@ -1,0 +1,35 @@
+img{
+	width: 450px;
+	display: block;
+    margin: 0 auto;
+    margin-top: 170px;
+}
+
+form {
+       text-align: center;
+   }
+
+input {
+	font-size: 20px;
+	font-family: 'Tahoma';
+	padding: 10px;
+	margin: 10px;
+}
+
+#mysearchbar {
+	width: 700px;
+	border-radius: 25px;
+	border-width: 2px;
+
+}
+
+#links{
+	text-align: right;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.submitButton{
+    border-radius: 4px;
+    background-color: rgb(250, 247, 247);
+}
